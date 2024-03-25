@@ -8,7 +8,7 @@ from cryptography.fernet import InvalidToken
 
 class PasswordEncryption:
     '''
-    --- https://t.me/cryptogovnozavod ---
+    --- CEXWithdrawer ---
     Encoding and decoding different python objects with password and salt
     :param str password: password
     :param str salt: salt
